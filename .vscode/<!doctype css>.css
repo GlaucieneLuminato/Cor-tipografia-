@@ -1,0 +1,16 @@
+<!doctype css>
+:root{
+    --- bg:dcdde1;
+    --color- icon: # 535535c6535c68;
+    --social-icon 1: ##e4405f;
+    --social icon 2: #3b5999;
+    --social icon 3: #e4405f;
+    --social icon 4: #cd201f;
+    --social icon 5: #0077b5;
+
+}
+
+*{
+    margin:0;
+    padding:0;
+}
