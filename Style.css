@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+header {
+  background: gold;
+}
+
+.vermelho {
+  color: rgb(255, 0, 0);
+}
+
+.verde {
+  color: rgb(0, 255, 0);
+}
+
+.azul {
+  color: rgb(0, 0, 255);
+}
+
+.hexa {
+  color:#8FBC8F;
+}
